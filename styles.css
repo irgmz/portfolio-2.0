@@ -1,0 +1,42 @@
+/** Navbar **/
+.nav-item a:hover {
+	color: #fff4c2;
+	transition: 300ms;
+}
+
+#contact {
+	background-image: url("assets/img/kitchen.JPG");
+	background-attachment: fixed;
+	background-size: cover;
+	color: white;
+	margin: 0 auto;
+}
+
+#contact-form {
+	padding: 15px;
+	margin: 0 auto;
+}
+
+#message-box {
+	width: 100%;
+}
+
+.form-control {
+	width:100%;
+}
+	
+
+#contact-left {
+	text-align: center;
+}
+
+#map {
+        height: 450px;
+        width: 600px;
+        margin: auto;
+      }
+
+.panel-group {
+	width: 75%;
+	margin:0 auto;
+}
