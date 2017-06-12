@@ -1,6 +1,6 @@
 /** Navbar **/
 .nav-item a:hover {
-	color: #fff4c2;
+	color: #696969;
 	transition: 300ms;
 }
 
@@ -39,4 +39,12 @@
 .panel-group {
 	width: 75%;
 	margin:0 auto;
+}
+
+.nav-item {
+	font-size: 1.5em;
+}
+
+.navbar-brand a{
+	font-size: 1.5em;
 }
